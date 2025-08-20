@@ -7,7 +7,7 @@
 [](https://reactjs.org/)
 [](https://nodejs.org/)
 
-Sticky-DO is a full-stack web application that brings the simplicity of sticky notes to the digital world, combined with powerful to-do list functionalities. It's designed to help you organize your thoughts, tasks, and reminders in a visually intuitive way. Demo: https://eclectic-rabanadas-b8dd11.netlify.app/
+Sticky-DO is a full-stack web application that brings the simplicity of sticky notes to the digital world, combined with powerful to-do list functionalities. It's designed to help you organize your thoughts, tasks, and reminders in a visually intuitive way. Demo: https://eclectic-rabanadas-b8dd11.netlify.app/ Backend API: https://sticky-do.onrender.com
 
 -----
 
